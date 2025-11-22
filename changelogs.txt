@@ -1,1 +1,1 @@
-Added main menu widget, video settings widget, made plugin cleanup
+Editing settings widget
