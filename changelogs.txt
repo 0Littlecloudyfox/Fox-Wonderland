@@ -1,1 +1,1 @@
-Editing settings widget
+Added audio settings, audio bpf integration with savegames
