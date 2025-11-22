@@ -1,1 +1,1 @@
-Testing push automation
+Added main menu widget, video settings widget, made plugin cleanup
